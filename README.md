@@ -84,4 +84,4 @@
 
 ## Test Artifacts
 ---
-1.[Методы, типы и уровни тестирования и требований интеренет магазина ](https://github.com/ZHUKOUSKI-76/theory/blob/main/README.md)
+1.[Методы, типы, уровни тестирования и требований интернет магазина ](https://github.com/ZHUKOUSKI-76/theory/blob/main/README.md)
