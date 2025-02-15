@@ -83,4 +83,4 @@
 | https://www.rusau.net//Фунциональное тестирование ПО.Junior+                            | 11/2024 - 02/2025 |
 
 --- -->
-
+Test Artifacts
