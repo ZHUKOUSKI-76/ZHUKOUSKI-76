@@ -95,3 +95,5 @@
 5.[Тест-план, тест кейсы, создание отчета и перехват трафика приложения "Интернет-магазин"](https://github.com/ZHUKOUSKI-76/web/commit/ca4f67f35a0be8836cebeecba6442489b145f483)
 
 6.[Создание коллекций, автотестов и генерация данных в Postman](https://github.com/ZHUKOUSKI-76/api/commit/b2cda43ad043ab333bdac9176422689870e91aaa)
+
+7.[Select,Join запросы в MySQL,коллекция в MongoDB](https://github.com/ZHUKOUSKI-76/database/commit/5de1ad5208d095dd44977241aed2013137caa413)
