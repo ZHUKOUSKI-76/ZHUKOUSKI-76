@@ -99,3 +99,5 @@
 7.[Select, Join запросы в MySQL,коллекция в MongoDB](https://github.com/ZHUKOUSKI-76/database/commit/5de1ad5208d095dd44977241aed2013137caa413)
 
 8.[Чек-лист, тест-кейсы, отчет о дефектах и перехват трафика мобильных приложений](https://github.com/ZHUKOUSKI-76/mobile/commit/5d82a2d277a7b27b5c2a55ab57bc79d877ee4f45)
+
+9.[Работа с Git и Bash](https://github.com/ZHUKOUSKI-76/git_bash/commit/40cc2ab6e4447b198f54c74a94727f97e7481971)
