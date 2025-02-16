@@ -88,6 +88,6 @@
 
 2.[Применение различных методов тест-дизайна для анализа качества](https://github.com/ZHUKOUSKI-76/design/commit/5813ca1c23532adc855d4c2e4502e1a0618d10f3)
 
-3.[Чек-лист для тестирования регистрации, логина и каталога товаров приложения](https://github.com/ZHUKOUSKI-76/docs/commit/3cd07832be6 8f0dd1e20031a3258c4423b960752)
+3.[Чек-лист для тестирования регистрации, логина и каталога товаров приложения](https://github.com/ZHUKOUSKI-76/docs/commit/3cd07832be6)
 
 4.[Тест кейсы в системе QASE т отчета о дефекте для регистрации, логина и каталога товаров приложения](https://github.com/ZHUKOUSKI-76/Testing-Documentation/commit/adfef18ff8019d2b4d44b4aea994a2b98a1c6dc9)
