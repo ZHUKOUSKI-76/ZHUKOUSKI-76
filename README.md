@@ -93,3 +93,5 @@
 4.[Тест кейсы в системе QASE, создание отчета о дефекте для блоков регистрации, логина и каталога товаров приложения](https://github.com/ZHUKOUSKI-76/Testing-Documentation/commit/adfef18ff8019d2b4d44b4aea994a2b98a1c6dc9)
 
 5.[Тест-план, тест кейсы, создание отчета и перехват трафика приложения "Интернет-магазин"](https://github.com/ZHUKOUSKI-76/web/commit/ca4f67f35a0be8836cebeecba6442489b145f483)
+
+6.[Создание коллекций, автотестов и генерация данных в Postman](https://github.com/ZHUKOUSKI-76/api/commit/b2cda43ad043ab333bdac9176422689870e91aaa)
