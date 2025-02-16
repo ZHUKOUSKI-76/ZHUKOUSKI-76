@@ -86,4 +86,4 @@
 ---
 1.[Методы, типы, уровни тестирования и требований интернет магазина ](https://github.com/ZHUKOUSKI-76/theory/blob/main/README.md)
 
-2.[Применение различных методов тест-дизайна для анализа качества https://github.com/ZHUKOUSKI-76/design/commit/5813ca1c23532adc855d4c2e4502e1a0618d10f3]
+2.[Применение различных методов тест-дизайна для анализа качества](https://github.com/ZHUKOUSKI-76/design/commit/5813ca1c23532adc855d4c2e4502e1a0618d10f3)
