@@ -81,6 +81,9 @@
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | https://www.rusau.net//qa-from-scratch "Фунциональное тестирование ПО" Junior+                            | 11/2024 - 02/2025 |
+--- -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlehZhukouski)
+
 
 ## Test Artifacts
 ---
@@ -102,5 +105,4 @@
 
 9.[Работа с Git и Bash](https://github.com/ZHUKOUSKI-76/git_bash/commit/40cc2ab6e4447b198f54c74a94727f97e7481971)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aleh%20Zhukouski)
 
