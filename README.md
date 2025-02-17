@@ -81,7 +81,7 @@
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | https://www.rusau.net//qa-from-scratch "Фунциональное тестирование ПО" Junior+                            | 11/2024 - 02/2025 |
---- -->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
 
 
