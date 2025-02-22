@@ -2,7 +2,7 @@
 
 ---
 
-[MY CV](https://github.com/ZHUKOUSKI-76/My-CV/commit/68b343f76bee7b9d14a5e1d1bcb45a2fc71214b7)
+[MY CV](https://docs.google.com/document/d/12ASsUTiw2FcVtwifK1LwnQdPFm4cT7gnYnaqFSq-coQ/edit?usp=sharing)
 
 ### 👨‍💻 Обо мне:
 
